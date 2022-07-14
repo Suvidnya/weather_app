@@ -1,4 +1,4 @@
-### This is an app that tells "Weather Details" of entered city implemented using Open Weather API
+### This is an app that displays all the "Weather Details" of a city implemented using Open Weather API
 
 <br>
 
