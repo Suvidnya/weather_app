@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+### This is an app that tells "Weather Details" of entered city implemented using Open Weather API
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
